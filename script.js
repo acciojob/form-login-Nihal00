@@ -5,7 +5,7 @@ function getFormvalue() {
 	var firstName = firstNameInput.value;
 	var lastName = lastNameInput.value;
 
-	alert(firstName + " " + lastName);
+	window.alert(firstName + " " + lastName);
 
 }
 
